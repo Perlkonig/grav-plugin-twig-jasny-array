@@ -1,5 +1,5 @@
 name: Twig Jasny Array
-version: 1.0.0
+version: 1.0.1
 description: Incorporates the Array module from [Jasny's Twig extensions](https://github.com/jasny/twig-extensions)
 icon: filter
 author:
@@ -9,6 +9,7 @@ homepage: https://github.com/Perlkonig/grav-plugin-twig-jasny-array
 keywords: grav, plugin, twig, extensions, array
 bugs: https://github.com/Perlkonig/grav-plugin-twig-jasny-array/issues
 docs: https://github.com/Perlkonig/grav-plugin-twig-jasny-array/blob/master/README.md
+demo: https://perlkonig.com/demos/twig-jasny-array
 license: MIT
 
 form:

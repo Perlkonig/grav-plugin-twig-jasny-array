@@ -2,6 +2,8 @@
 
 The **Twig Jasny Array** plugin is for [Grav CMS](http://github.com/getgrav/grav). It incorporates the Array module from [Jasny's Twig extensions](https://github.com/jasny/twig-extensions).
 
+For a demo, [visit my blog](https://perlkonig.com/demos/twig-jasny-array).
+
 ## Installation
 
 Installing the Twig Jasny Array plugin can be done in one of two ways. The GPM (Grav Package Manager) installation method enables you to quickly and easily install the plugin with a simple terminal command, while the manual method enables you to do so via a zip file.
